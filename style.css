@@ -1,0 +1,9 @@
+table{
+    border-collapse: collapse;
+}
+thead{
+    font-weight: 900;
+}
+td{
+    padding: 6px;
+}
